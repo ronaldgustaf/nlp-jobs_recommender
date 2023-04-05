@@ -39,20 +39,21 @@ Word2Vec Mean NDCG: 0.9859520623803626
 > categories = ['Business Analyst', 'Civil Engineer', 'Data Science', 'HR', 'Web Designing']
 - Find Top 10 Jobs according to CV content
 - Results:
-Business Analyst Resume:
-![ba](/images/ba.png "ba")
 
-Civil Engineer Resume:
-![civ](/images/civ.png "civ")
+    Business Analyst Resume:
+    ![ba](/images/ba.png "ba")
 
-Data Scientist Resume:
-![ds](/images/ds.png "ds")
+    Civil Engineer Resume:
+    ![civ](/images/civ.png "civ")
 
-HR Resume:
-![hr](/images/hr.png "hr")
+    Data Scientist Resume:
+    ![ds](/images/ds.png "ds")
 
-Web Designing Resume:
-![webdev](/images/webdev.png "webdev")
+    HR Resume:
+    ![hr](/images/hr.png "hr")
+
+    Web Designing Resume:
+    ![webdev](/images/webdev.png "webdev")
 
 > Notes: Content of Web Designing Resume tested
     ['Technical Skills Web Technologies: Angular JS, HTML5, CSS3, SASS, Bootstrap, Jquery, Javascript. Software: Brackets, Visual Studio, Photoshop, Visual Studio Code Education Details ',
