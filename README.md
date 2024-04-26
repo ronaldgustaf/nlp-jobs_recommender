@@ -2,7 +2,7 @@
 Training Dataset: https://www.kaggle.com/datasets/promptcloud/indeed-usa-job-listing-dataset
 > Filename: marketing_sample_for_indeed_usa-indeed_usa_job__20210101_20210331__30k_data.ldjson
 
-Test Dataset (Sample resume): https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
+Sample Resume Dataset: https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 filtered for categories: ['Data Science', 'Web Designing', 'HR', 'Business Analyst', 'Civil Engineer']
 > Filename: resume_data.csv
 
